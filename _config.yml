@@ -29,6 +29,12 @@ skills:
  - MVC
  - Wordpress
  
+education:
+ - level: Bachelor of Science (B.Sc.)
+   date: 2023
+   subject: Computer Science
+   school: College of Management Academics, Israel
+
 
 roles:
  - title: Software Engineer
@@ -50,29 +56,10 @@ roles:
    description: During my period as a Full Stack Website developer I was responsible to execute the entire development procedure, including Understanding clients requirements, Profile and characterize the website feautres and develop and deliver a fully working project on schedule.
 
 
-education:
- - level: Bachelor of Science (B.Sc.)
-   date: 2023
-   subject: Computer Science
-   school: College of Management Academics, Israel
-
- - level: Course Graduate
-   date: 2016
-   subject: Full-Stack Website Development
-   school: John Bryce
-
-
-#List of interesting Github repo/projects to include - optional
 github:
  - alon-berman/TempMonitor
  - alon-berman/Algorithm_Tester
  
-
-
-#Stackoverflow flair is optional
-stackoverflow:
-   profileurl: https://stackoverflow.com/users/258813/rhinds
-   flairimageurl: https://stackoverflow.com/users/flair/258813.png
 
 intro: |
   I am a Software Engineer with over 5 years of hands on experience. During that time I have had the honor working on a wide spectrum of projects, applying top-notch software engineering principles and methodologies. <br/><br/>
@@ -80,7 +67,6 @@ intro: |
   In addition, I have been playing Classical Music on guitar for over 12 years. Music has a very special place in my life.
   
 
-#An additional info freetext section is optional at the bottom of the page - can be text or HTML
 additionalinfo: |
    <strong>Python</strong>: <br/><br/>
    <strong>C</strong>: <br/><br/>
