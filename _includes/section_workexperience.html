@@ -5,18 +5,6 @@
 	<div class="content-rounded-panel">
 		<div>
 			<div class="main-timeline4">
-
-					{% for role in site.roles %}
-						<div class="timeline">
-								<a href="#" class="timeline-content"  data-toggle="modal" data-target="#{{role.employer | replace: ' ', '_'}}-{{role.title | replace: ' ', '_'}}">
-										<span class="year">{{role.start}}</span>
-										<div class="inner-content">
-												<h3 class="title">{{role.title}}</h3>
-												<h5>{{role.employer}}</h5>
-										</div>
-								</a>
-						</div>
-					{% endfor %}
 					{% for edu in site.education %}
 						<div class="timeline">
 								<a href="#" class="timeline-content"  data-toggle="modal" data-target="#{{edu.school | replace: '.', '' | replace: ' ', ''}}-{{edu.level | replace: '.', '' | replace: ' ', '' | replace: '(', '' | replace: ')', ''}}">
@@ -28,6 +16,18 @@
 								</a>
 						</div>
 					{% endfor %}
+					{% for role in site.roles %}
+						<div class="timeline">
+								<a href="#" class="timeline-content"  data-toggle="modal" data-target="#{{role.employer | replace: ' ', '_'}}-{{role.title | replace: ' ', '_'}}">
+										<span class="year">{{role.start}}</span>
+										<div class="inner-content">
+												<h3 class="title">{{role.title}}</h3>
+												<h5>{{role.employer}}</h5>
+										</div>
+								</a>
+						</div>
+					{% endfor %}
+
 			</div>
 
 
