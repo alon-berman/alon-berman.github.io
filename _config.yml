@@ -1,0 +1,95 @@
+# Site settings
+title: Alon Berman
+twitter_username: a_ber
+name: Alon Berman
+
+# Build settings
+markdown: kramdown
+
+primarylinks:
+ - title: GitHub
+   url: https://github.com/alon-berman
+ - title: StackOverflow
+   url: https://stackoverflow.com/users/11845677/a-ber
+ - title: LinkedIn
+   url: https://www.linkedin.com/in/alon-berman-b2010ba1
+
+
+skills:
+ - Python
+ - C
+ - Azure Cloud
+ - MATLAB
+ - Terraform
+ - Javascript
+ - Microprocessors
+ - RTOS / Linux / Windows
+ - HTML
+ - CSS
+ - MVC
+ - Wordpress
+ 
+
+roles:
+ - title: Software Engineer
+   start: 2019
+   end: Ongoing
+   employer: Vayyar
+   description: As a software enginner at Vayyar, I was responsible to design, develop and maintain MVPs scalable infrastructure. The role included managing
+   the development procedurs using Agile methodologies, defining key feautres and capabilities, and all the way to the hands-on development of the product.
+   
+ - title: Software Developer
+   start: 2017
+   end: 2019
+   employer: Vayyar
+   description: The role included
+ 
+ - title: Full Stack Website Developer
+   start: 2016
+   end: 2017
+   employer: Self
+   description: During my period as a Full Stack Website developer I was responsible to execute the entire development procedure, including:
+   * Understand clients requirements
+   * Profile and characterize the website feautres.
+   * Develop and deliver a fully working project on schedule.
+
+
+education:
+ - level: Bachelor of Science (B.Sc.)
+   date: 2023
+   subject: Computer Science
+   school: College of Management Academics, Israel
+
+ - level: Course Graduate
+   date: 2016
+   subject: Full-Stack Website Development
+   school: John Bryce
+
+
+#List of interesting Github repo/projects to include - optional
+github:
+ - alon-berman/TempMonitor
+ - alon-berman/Algorithm_Tester
+ 
+
+
+#Stackoverflow flair is optional
+stackoverflow:
+   profileurl: https://stackoverflow.com/users/258813/rhinds
+   flairimageurl: https://stackoverflow.com/users/flair/258813.png
+
+intro: |
+  I am a Software Engineer with over 5 years of hands on experience. During that time I have had the honor working on a wide spectrum of projects, applying top-notch software engineering principles and methodologies. <br/><br/>
+  In my free time, I enjoy working on personal hardware-oriented projects in the IoT field, trade domain names and invest in crypto-currencies and NFTs.<br/><br/>
+  In addition, I have been playing Classical Music on guitar for over 12 years. Music has a very special place in my life.
+  
+
+#An additional info freetext section is optional at the bottom of the page - can be text or HTML
+additionalinfo: |
+   <strong>Python</strong>: <br/><br/>
+   <strong>C</strong>: <br/><br/>
+   <strong>MATLAB</strong> <br/><br/>
+   <strong>Cloud platforms</strong>: I have primarily used Azure for running production apps on the cloud. I have experience setting up, configuring and running applications using a range of Azure offerings, including Function Apps, Event Hub, Service Bus, PSQL, DPS and more.<br/><br/>
+   <strong>Web Development</strong>: Through building web applications, I have also worked with various client side technology, having used jQuery, Bootstrap, Node.js, and Angular.<br/><br/>
+   <strong>Development Control</strong>: I have a good knowledge of application life-cycle management and have worked with Git, TeamCity, GitHub Features etc. I have experience with an array of testing tools and technologies.<br/><br/>
+   
