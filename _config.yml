@@ -68,9 +68,9 @@ intro: |
   
 
 additionalinfo: |
-   <strong>Python</strong>: <br/><br/>
-   <strong>C</strong>: <br/><br/>
-   <strong>MATLAB</strong> <br/><br/>
+   <strong>Python</strong>: Conceptualized the software requirements into software implementation. Took an extensive part in the entire software development life cycle (SDLC) — shifting the concentration from the problem to the solution. <br/> Was responsible to design, implement and maintain API interfaces, tools and applicatioמs for company-wide usage, Emphasized on OOP methodologies, code reuseability and modularity.<br/><br/>
+   <strong>C</strong>: Designed and developed applications for different microprocessors using C Embedded, mainly for IoT purposes, focusing on resources management, clean, stable code and implementing different communication protocols such as MQTT, AMQP, TCP, HTTP, SPI and more.<br/><br/>
+   <strong>MATLAB</strong> Developed C-Mex based RADAR communication API interfaces to be natively used by MATLAB client. In addition, developed and maintain regression test using MATLAB parallel computing, providing solid CI\CD infrastructure for different R&D teams. <br/><br/>
    <strong>Cloud platforms</strong>: I have primarily used Azure for running production apps on the cloud. I have experience setting up, configuring and running applications using a range of Azure offerings, including Function Apps, Event Hub, Service Bus, PSQL, DPS and more.<br/><br/>
    <strong>Web Development</strong>: Through building web applications, I have also worked with various client side technology, having used jQuery, Bootstrap, Node.js, and Angular.<br/><br/>
    <strong>Development Control</strong>: I have a good knowledge of application life-cycle management and have worked with Git, TeamCity, GitHub Features etc. I have experience with an array of testing tools and technologies.<br/><br/>
