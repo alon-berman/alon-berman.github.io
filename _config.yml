@@ -16,18 +16,19 @@ primarylinks:
 
 
 skills:
+ - AWS
  - Python
  - C
  - Azure Cloud
- - MATLAB
+ - CI / CD
  - Terraform
- - Javascript
+ - RTOS / Linux / Windows / MacOS
+ - SQL/Postgres
+ - MATLAB
  - Microprocessors
- - RTOS / Linux / Windows
+ - Javascript
  - HTML
  - CSS
- - MVC
- - Wordpress
  
 education:
  - level: Bachelor of Science (B.Sc.)
@@ -38,8 +39,14 @@ education:
 
 roles:
  - title: Software Engineer
-   start: 2019
+   start: 2022
    end: Ongoing
+   employer: Pagaya Investments Ltd.
+   description: Design and develop new features, improving existing infrastructure and maintain finance compliance, in a 24/7 live money-generating production environment. Responsible for planning and orchestrating development sprints focusing on delivery and quality (Scrum mastering).
+ 
+ - title: Software Engineer
+   start: 2019
+   end: 2022
    employer: Vayyar
    description: As a software enginner at Vayyar, I was responsible to design, develop and maintain MVPs scalable infrastructure. The role included managing the development procedurs using Agile methodologies, defining key feautres and capabilities, and all the way to the hands-on development of the product.
    
@@ -57,20 +64,24 @@ roles:
 
 
 github:
+ - alon-berman/npmxnicegui
  - alon-berman/TempMonitor
  - alon-berman/Algorithm_Tester
  
+ 
 
 intro: |
-  I am a Software Engineer with over 5 years of hands on experience. During that time I have had the honor working on a wide spectrum of projects, applying top-notch software engineering principles and methodologies. <br/><br/>
+  I am a Software Engineer with over 8 years of hands on experience and proud owner of <a href="etoot.co">etoot</a> company.
+  I have had the honor working on a wide spectrum of projects, applying top-notch software engineering principles and methodologies, while having tremendous fun. <br/><br/>
   On my free time, I enjoy working on personal hardware-oriented projects in the IoT field, trade domain names and invest in crypto-currencies, and especially enjoy playing Classical Music on Guitar.<br/><br/>
   
 
 additionalinfo: |
-   <strong>Python</strong>: Conceptualized the software requirements into software implementation. Took an extensive part in the entire software development life cycle (SDLC) — shifting the concentration from the problem to the solution. <br/> Was responsible to design, implement and maintain API interfaces, tools and applicatioמs for company-wide usage, Emphasized on OOP methodologies, code reuseability and modularity.<br/><br/>
+   <strong>Cloud platforms</strong>: A fond knowledge of both AWS and Azure cloud platforms, running production and maintaining compliance. I have experience setting up, configuring, developing and running applications while taking use of the different solutions provided by these servicers.<br/><br/>
+   <strong>Python</strong>: Conceptualized the software requirements into software implementation. Took an extensive part in the entire software development life cycle (SDLC) — shifting the concentration from the problem to the solution. <br/> Was responsible to design, implement and maintain API interfaces, tools and applications for company-wide usage, Emphasized on OOP methodologies, code reuseability and modularity.<br/><br/>
    <strong>C</strong>: Designed and developed applications for different microprocessors using C Embedded, mainly for IoT purposes, focusing on resources management, clean, stable code and implementing different communication protocols such as MQTT, AMQP, TCP, HTTP, SPI and more.<br/><br/>
+   <strong>Scrum Master</strong>: As a Scrum Master in my current role, I played a pivotal role in fostering a culture of agility and collaboration within the team. I facilitated daily stand-up meetings, sprint planning sessions, and retrospectives to ensure the team stayed on track and continuously improved their processes.<br/><br/>
    <strong>MATLAB</strong> Developed C-Mex based RADAR communication API interfaces to be natively used by MATLAB client. In addition, developed and maintain regression test using MATLAB parallel computing, providing solid CI\CD infrastructure for different R&D teams. <br/><br/>
-   <strong>Cloud platforms</strong>: I have primarily used Azure for running production apps on the cloud. I have experience setting up, configuring and running applications using a range of Azure offerings, including Function Apps, Event Hub, Service Bus, PSQL, DPS and more.<br/><br/>
    <strong>Web Development</strong>: Through building web applications, I have also worked with various client side technology, having used jQuery, Bootstrap, Node.js, and Angular.<br/><br/>
    <strong>Development Control</strong>: I have a good knowledge of application life-cycle management and have worked with Git, TeamCity, GitHub Features etc. I have experience with an array of testing tools and technologies.<br/><br/>
    
